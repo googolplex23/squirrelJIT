@@ -1,4 +1,2 @@
-# squirrelua
-Run-time transpiler from the squirrel to lua programming language.
-
-Intended for use with LuaJIT to offer faster execution of squirrel code.
+# squirrelJIT
+A just-in-time compiler for the squirrel programming language that uses luajit as a backend for squirrel execution
